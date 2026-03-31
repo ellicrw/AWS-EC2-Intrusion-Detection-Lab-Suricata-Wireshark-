@@ -99,11 +99,11 @@ Deploy and configure a network intrusion detection system in a cloud environment
 
 Add images like this:
 
-![Suricata Alert](images/suricata.png)
+![Suricata Alert](suricata.png)
 
-![Wireshark SYN Scan](images/wireshark.png)
+![Wireshark SYN Scan](wireshark.png)
 
-![Nmap Scan](images/kali.png)
+![Nmap Scan](kali.png)
 
 ---
 
